@@ -26,7 +26,7 @@
     <input type="number" id="group" name="group">
   </div>
   <div>
-    <label for="classDetails">Group Number:</label>
+    <label for="classDetails">Class details:</label>
     <textarea id="class_details" name="classDetails"></textarea>
   </div>
   <div>
