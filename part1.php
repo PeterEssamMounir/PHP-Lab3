@@ -12,7 +12,7 @@
   <h1>Application name: AAST_BIS class registration </h1>
   <p style="color:red">* Required field</p>
 
-<form method="post" action="index.php">
+<form method="post" action="part1.php">
   <div>
     <label for="name">Name:*</label>
     <input type="text" id="name" name="name" required >
